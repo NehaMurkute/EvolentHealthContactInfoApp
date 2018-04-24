@@ -20,4 +20,4 @@ Implementation of  production ready application for maintaining contact informat
 a) Add contact :- http://localhost:5329/contact/create
 b) Edit contact :- http://localhost:5329/contact/Edit/1
 c) List contact :- http://localhost:5329/contact
-d) Delete contact :- http://localhost:5329/contact/Delete/1
+
