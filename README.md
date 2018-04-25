@@ -10,6 +10,7 @@ Implementation of  production ready application for maintaining contact informat
 2) WebAPI
 3) Entity Framework
 4) MS SQL
+5) Unit Testing
 
 # Instruction
 1) Pull the source code from Github
